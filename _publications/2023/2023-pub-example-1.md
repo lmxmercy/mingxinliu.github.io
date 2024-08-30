@@ -18,5 +18,6 @@ authors:
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10385897
   Code: https://github.com/lmxmercy/MGCT
+  Slides: assets/slides/BIBM2023-B280-MGCT-MingxinLiu-Heilongjiang University.pdf
   Cite: assets/bibtex/liu2023mgbct.bib
 ---
