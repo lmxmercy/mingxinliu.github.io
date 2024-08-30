@@ -12,7 +12,7 @@ pub_date:       "2024"
 abstract: >-
   We introduce a dual branch network, incorporating edge attention, and deep supervision strategy. Edge attention is introduced to fully utilize the spatial relationship between the scar and the atrium. Besides, dense attention is embedded in the bottom layer to solve feature disappearance. At the same time, deep supervision accelerates the convergence of the model and improves segmentation accuracy.
   
-cover:          assets/images/covers/seg.jpg
+cover:          assets/images/covers/seg.png
 authors:
   - Gaoyuan Li
   - Mingxin Liu
