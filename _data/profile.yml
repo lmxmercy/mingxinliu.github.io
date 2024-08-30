@@ -9,6 +9,7 @@ email: "mingxinliu@ieee.org"
 gscholar: Ff5GjMoAAAAJ
 # sscholar: Rongsheng-Wang/2261313297
 github: lmxmercy
+orcid: 0000-0003-0436-4058
 twitter: Mercy_mxliu
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -16,7 +17,7 @@ twitter: Mercy_mxliu
 # zhihu: wang-rong-sheng-74
 resume: assets/cv/MingxinCV.pdf
 # linkedin: your-linked-in-id
-orcid: 0000-0003-0436-4058
+
 
 short_bio: >-
   I am a 1st year Ph.D. student advised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=99gdDhkAAAAJ">Jun Xu</a> at Nanjing University of Information Science and Technology. My research interests are Computational Pathology and Medical Image Analysis. 
