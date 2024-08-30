@@ -12,7 +12,7 @@ pub_date:       "2024"
 abstract: >-
   This study introduces "Multi-modal Multi-task Network" (3MT-Net), a deep learning architecture using clinical data, B-mode, and color Doppler ultrasound. 3MT-Net employs AM-CapsNet for tumor feature extraction, cross-attention for data fusion, and ensemble learning for optimization. Extensive testing on two datasets showed 3MT-Net outperforms the industrial-grade CAD product S-detect, achieving higher AUC.
   
-cover:          assets/images/covers/3mt.png
+cover:          assets/images/covers/hgpt.png
 authors:
   - Yaofei Duan
   - Patrick Cheong-Iao Pang
