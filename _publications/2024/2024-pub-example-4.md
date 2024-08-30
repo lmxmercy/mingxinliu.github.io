@@ -1,6 +1,6 @@
 ---
 title:          Exploiting Geometric Features via Hierarchical Graph Pyramid Transformer for Cancer Diagnosis Using Histopathological Images
-date:           2024-08-01 00:01:00 +0800
+date:           2024-03-21 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Medical Imaging"
 # pub_pre:        "Submitted to "
@@ -14,18 +14,8 @@ abstract: >-
   
 cover:          assets/images/covers/hgpt.png
 authors:
-  - Yaofei Duan
-  - Patrick Cheong-Iao Pang
-  - Ping He
-  - Rongsheng Wang
-  - Yue Sun
-  - Chuntao Liu
-  - Xiaorong Zhang
-  - Xirong Yuan
-  - Pengjie Song
-  - Chan-Tong Lam
-  - Ligang Cui
-  - Tao Tan†
+  - Mingxin Liu
+  - Jiquan Ma†
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10640221
 ---
