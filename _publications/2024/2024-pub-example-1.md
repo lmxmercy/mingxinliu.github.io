@@ -18,6 +18,6 @@ authors:
   - Pengbo Xu
   - Jiquan Ma†
 links:
-  Link: https://ieeexplore.ieee.org/xpl/conhome/10635099/proceeding
+  Paper: https://ieeexplore.ieee.org/xpl/conhome/10635099/proceeding
   Cite: assets/bibtex/liu2024unleashing.bib
 ---
