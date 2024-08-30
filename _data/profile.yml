@@ -37,7 +37,7 @@ education:
   position: M.S. in Computer Science
   date: Sep. 2021 - Jul. 2024
 - name: Heilongjiang International University
-  logo: assets/images/badges/hiu.png
+  # logo: assets/images/badges/hiu.png
   position: B.S. in Computer Science and Technology
   date: Sep. 2017 - Jul. 2021
   
