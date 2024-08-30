@@ -10,7 +10,7 @@ pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal
 pub_date:       "2024"
 
 abstract: >-
-  This study proposed HGPT, a novel framework that jointly considers geometric and global representation for cancer diagnosis in histopathological images. HGPT leverages a multi-head graph aggregator to aggregate the geometric representation from pathological morphological features, and a locality feature enhancement block to highly enhance the 2D local feature perception in vision transformers, leading to improved performance on histopathological image classification. Extensive experiments on Kather-5K, MHIST, NCT-CRC-HE, and GasHisSDB four public datasets demonstrate the advantages of the proposed HGPT over bleeding-edge approaches in improving cancer diagnosis performance.
+  This study proposed HGPT, a novel framework that jointly considers geometric and global representation for cancer diagnosis in histopathological images. HGPT leverages a multi-head graph aggregator to aggregate the geometric representation from pathological morphological features, and a locality feature enhancement block to highly enhance the 2D local feature perception in vision transformers, leading to improved performance on histopathological image classification. Extensive experiments on Kather-5K, MHIST, NCT-CRC-HE, and GasHisSDB four public datasets demonstrate the advantages of the proposed HGPT over bleeding-edge approaches in improving cancer diagnosis performance.
   
 cover:          assets/images/covers/hgpt.png
 authors:
