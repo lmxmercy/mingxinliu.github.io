@@ -22,5 +22,5 @@ authors:
   - Jiquan Ma†
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10479483
-  Cite: assets/bibtex/liu2023mgct.bib
+  Cite: assets/bibtex/liu2024exploiting.bib
 ---
