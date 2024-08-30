@@ -1,5 +1,5 @@
 ---
-title:          Unleashing the Infinity Power of Geometry: A Novel Geometry-Aware Transformer (GOAT) for Whole Slide Histopathology Image Analysis
+title:          Unleashing the Infinity Power of Geometry：A Novel Geometry-Aware Transformer (GOAT) for Whole Slide Histopathology Image Analysis
 date:           2024-02-03 00:01:00 +0800
 selected:       true
 pub:            "2024 IEEE International Symposium on Biomedical Imaging (ISBI)"
