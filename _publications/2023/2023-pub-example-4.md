@@ -1,27 +1,22 @@
 ---
-title:          IvyGPT： Interactive Chinese Pathway Language Model in the Medical Domain
-date:           2023-07-22 00:01:00 +0800
-selected:       false
-pub:            "2023 CAAI International Conference on Artificial Intelligence"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+title:          MGCT： Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features
+date:           2023-10-14 00:01:00 +0800
+selected:       true
+pub:            "2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
 pub_date:       "2023"
 abstract: >-
-  We propose IvyGPT, a large language model trained on medical question-answering data and reinforced with human feedback, achieving state-of-the-art performance for clinical conversational agents while containing over 33 billion parameters manageably within a small GPU cluster.
+  We propose the Mutual-Guided Cross-Modality Transformer (MGCT), a weakly-supervised, attention-based multimodal learning frame�work that can combine histology features and genomic features to model the genotype-phenotype interactions within the tumor microenvironment. Extensive experimental results on five benchmark datasets consistently emphasize that MGCT outperforms the state-of-the-art (SOTA) methods.
   
-cover:          assets/images/covers/ivygpt.png
+cover:          assets/images/covers/mgct.png
 authors:
-  - Rongsheng Wang
-  - Yaofei Duan
-  - ChanTong Lam
-  - Jiexin Chen
-  - Jiangsheng Xu
-  - Haoming Chen
-  - Xiaohong Liu
-  - Patrick Cheong-Iao Pang
-  - Tao Tan†
+  - Mingxin Liu
+  - Yunzan Liu
+  - Hui Cui
+  - Chunquan Li†
+  - Jiquan Ma†
 links:
-  Paper: https://link.springer.com/chapter/10.1007/978-981-99-9119-8_34
-  Code: https://github.com/WangRongsheng/IvyGPT
-  Cite: assets/bibtex/wang2023ivygpt.bib
-  Poster: assets/images/poster/CICAI2023-poster.jpg
+  Paper: https://ieeexplore.ieee.org/abstract/document/10385897
+  Code: https://github.com/lmxmercy/MGCT
+  Cite: assets/bibtex/liu2023mgbct.bib
 ---
