@@ -10,12 +10,16 @@ pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal
 pub_date:       "2024"
 
 abstract: >-
-  This study introduces "Multi-modal Multi-task Network" (3MT-Net), a deep learning architecture using clinical data, B-mode, and color Doppler ultrasound. 3MT-Net employs AM-CapsNet for tumor feature extraction, cross-attention for data fusion, and ensemble learning for optimization. Extensive testing on two datasets showed 3MT-Net outperforms the industrial-grade CAD product S-detect, achieving higher AUC.
+  This study proposed HGPT, a novel framework that jointly considers geometric and global representation for cancer diagnosis in histopathological images. HGPT leverages a multi-head graph aggregator to aggregate the geometric representation from pathological morphological features, and a locality feature enhancement block to highly enhance the 2D local feature perception in vision transformers, leading to improved performance on histopathological image classification.
   
 cover:          assets/images/covers/hgpt.png
 authors:
   - Mingxin Liu
+  - Yunzan Liu
+  - Pengbo Xu
+  - Hui Cui
+  - Jing Ke
   - Jiquan Ma†
 links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/10640221
+  Paper: https://ieeexplore.ieee.org/abstract/document/10479483
 ---
