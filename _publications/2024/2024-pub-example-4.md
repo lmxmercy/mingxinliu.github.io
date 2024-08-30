@@ -1,8 +1,8 @@
 ---
-title:          3MT-Net：A Multi-modal Multi-task Model for Breast Cancer and Pathological Subtype Classification Based on a Multicenter Study
+title:          Exploiting Geometric Features via Hierarchical Graph Pyramid Transformer for Cancer Diagnosis Using Histopathological Images
 date:           2024-08-01 00:01:00 +0800
 selected:       true
-pub:            "IEEE Journal of Biomedical and Health Informatics"
+pub:            "IEEE Transactions on Medical Imaging"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
