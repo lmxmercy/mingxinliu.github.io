@@ -1,30 +1,31 @@
-primary_name: "Rongsheng Wang"
+primary_name: "Mingxin Liu"
 secondary_name: ""
-navbar_name: "Rongsheng Wang's Home Page"
+navbar_name: "Mingxin Liu's Home Page"
 
 positions:
   - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> M.S., Macao Polytechnic University (2024)'
 
-email: "wrs6@88.com"
-gscholar: SSaBaioAAAAJ
-sscholar: Rongsheng-Wang/2261313297
-github: wangrongsheng
-twitter: RongshengWang
+email: "mingxinliu@ieee.org"
+gscholar: Ff5GjMoAAAAJ
+# sscholar: Rongsheng-Wang/2261313297
+github: lmxmercy
+twitter: Mercy_mxliu
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-zhihu: wang-rong-sheng-74
-resume: assets/cv/Resume_RongshengWang.pdf
+# zhihu: wang-rong-sheng-74
+resume: assets/cv/MingxinCV.pdf
 # linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+orcid: 0000-0003-0436-4058
 
 short_bio: >-
-  I am Rongsheng Wang, I used to study at Macao Polytechnic University (MPU) and work under the supervision of Prof.<a href="https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ">Tao Tan</a>. My research interests are computer vision, LLM, trusted LLM, RAG, and Agent systems. I am also interested in generative data research. I am currently seeking a PhD opportunity. <br> I publish a lot of open source projects on <a href="https://github.com/WangRongsheng">🔗Github</a>. I shared some of the datasets and model weights used by the project at <a href="https://huggingface.co/wangrongsheng">🔗HuggingFace</a>. I likewise like to post some small-parameter LM at <a href="https://ollama.com/wangrongsheng">🔗Ollama</a> to help people use it locally.
+  I am a 1st year Ph.D. student advised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=99gdDhkAAAAJ">Jun Xu</a> at Nanjing University of Information Science and Technology. My research interests are Computational Pathology and Medical Image Analysis. 
+  Prior to starting my Ph.D., I obtained my M.S in Computer Science at Heilongjiang University, advised by Prof. Jiquan Ma, and worked with Dinggang Shen, Jing Ke, and Chunquan Li. 
 
 show_portrait: true
-portrait_url: assets/images/photos/profile_wrs.jpg
+portrait_url: assets/images/photos/profile_lmx.jpg
 portrait_caption: >-
-  我是王荣胜，欢迎访问我的主页~
+  我是刘明新，欢迎访问我的主页~
 
 education:
 - name: Macao Polytechnic University
