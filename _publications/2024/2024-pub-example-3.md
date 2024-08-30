@@ -1,8 +1,8 @@
 ---
-title:          Xiaoqing： A Q&A Model for Glaucoma Based on LLMs
-date:           2024-05-01 00:01:00 +0800
-selected:       true
-pub:            "Computers in Biology and Medicine"
+title:          Edge and dense attention U-net for atrial scar segmentation in LGE-MRI
+date:           2024-07-10 00:01:00 +0800
+selected:       false
+pub:            "Biomedical Physics & Engineering Express"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
@@ -10,23 +10,14 @@ pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal
 pub_date:       "2024"
 
 abstract: >-
-  We introduce Xiaoqing, an LLM model tailored for glaucoma developed through comparative and experiential experiments, demonstrating it can better serve glaucoma patients and medical research compared to general and clinical AI assistants by providing more informative and readable responses to glaucoma-related questions in Chinese.
+  We introduces a dual branch network, incorporating edge attention, and deep supervision strategy. Edge attention is introduced to fully utilize the spatial relationship between the scar and the atrium. Besides, dense attention is embedded in bottom layer to solve feature disappearance. At the same time, deep supervision accelerates the convergence of the model and improves segmentation accuracy.
   
-cover:          assets/images/covers/xiaoqing.jpg
+cover:          assets/images/covers/a.jpg
 authors:
-  - Xiaojuan Xue
-  - Deshiwei Zhang
-  - Chengyang Sun
-  - Yiqiao Shi
-  - Rongsheng Wang
-  - Tao Tan
-  - Peng Gao
-  - Sujie Fan
-  - Guangtao Zhai
-  - Menghan Hu
-  - Yue Wu†
+  - Gaoyuan Li
+  - Mingxin Liu
+  - Jun Lu
+  - Jiquan Ma†
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0010482524004839
-  Demo: https://qa.glaucoma-assistant.com/#/qa
-  Cite: assets/bibtex/xue2024xiaoqing.bib
+  Paper: https://iopscience.iop.org/article/10.1088/2057-1976/ad6161/meta
 ---
