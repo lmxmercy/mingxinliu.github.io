@@ -20,50 +20,50 @@ orcid: 0000-0003-0436-4058
 
 short_bio: >-
   I am a 1st year Ph.D. student advised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=99gdDhkAAAAJ">Jun Xu</a> at Nanjing University of Information Science and Technology. My research interests are Computational Pathology and Medical Image Analysis. 
-  Prior to starting my Ph.D., I obtained my M.S in Computer Science at Heilongjiang University, advised by Prof. Jiquan Ma, and worked with Dinggang Shen, Jing Ke, and Chunquan Li. 
+  Prior to starting my Ph.D., I obtained my M.S degree in Computer Science at Heilongjiang University, advised by Prof. Jiquan Ma, and worked with Dinggang Shen, Jing Ke, and Chunquan Li. 
 
 show_portrait: true
-portrait_url: assets/images/photos/profile_lmx.jpg
+portrait_url: assets/images/photos/mxliu.jpg
 portrait_caption: >-
   我是刘明新，欢迎访问我的主页~
 
 education:
-- name: Macao Polytechnic University
-  logo: assets/images/badges/mpu_master.png
-  position: M.S. in Big Data and Internet of Things
-  date: Sep. 2022 - Jul. 2024
-- name: Henan Polytechnic University
-  logo: assets/images/badges/hpu_bs.png
-  position: B.S. in Computer Science (AI)
-  date: Sep. 2018 - Jul. 2022
+- name: Nanjing University of Information Science and Technology
+  logo: assets/images/badges/nuist.png
+  position: Ph.D. student in Artificial Intelligence
+  date: Sep. 2024 - Present
+- name: Heilongjiang University
+  logo: assets/images/badges/hlju.png
+  position: M.S. in Computer Science
+  date: Sep. 2021 - Jul. 2024
+- name: Heilongjiang International University
+  logo: assets/images/badges/hiu.png
+  position: B.S. in Computer Science and Technology
+  date: Sep. 2017 - Jul. 2021
   
-experience:
-- name: Qiyuan.Tech
-  logo: assets/images/badges/qiyuan.png
-  position: CTO, Reasercher
-  date: Oct. 2023 - Now
-- name: HKUST (GZ) 
-  logo: assets/images/badges/hkust-gz.png
-  position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
-  date: Feb. 2024 -	May 2024
+# experience:
+# - name: Qiyuan.Tech
+#   logo: assets/images/badges/qiyuan.png
+#   position: CTO, Reasercher
+#   date: Oct. 2023 - Now
+# - name: HKUST (GZ) 
+#   logo: assets/images/badges/hkust-gz.png
+#   position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
+#   date: Feb. 2024 -	May 2024
 
 
 awards:
-- name: First Prize of Baidu PaddlePaddle AGI Hackathon
+- name: Outstanding Master’s Degree Thesis in Heilongjiang University
   date: 2024
-- name: Third Prize of Digital Medical Technology and Application Innovation Competition
+- name: Second-Class Graduate Scholarship in Heilongjiang University
   date: 2023
-- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-  date: 2023
-- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
-  date: 2023
-- name: Winner of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
+- name: First-Class Graduate Scholarship in Heilongjiang University
   date: 2022
-- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
+- name: First-Class Graduate Scholarship in Heilongjiang University
   date: 2021
 
 service:
-- name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
+- name: Reviewer of The Conference Neural Information Processing Systems (NeurIPS) 2022 Cell Segmentation Challenge
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
