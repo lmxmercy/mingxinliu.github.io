@@ -1,23 +1,21 @@
 ---
-title:          PCTMF-Net： Heart Sound Classification with Parallel CNNs-Transformer and Second-Order Spectral Analysis
-date:           2023-08-01 00:01:00 +0800
+title:          MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features
+date:           2023-10-14 00:01:00 +0800
 selected:       true
-pub:            "The Visual Computer"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
+pub:            "2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Conference</span>'
 pub_date:       "2023"
 abstract: >-
-  We propose a Parallel CNNs-Transformer network with multi-scale feature context aggregation (PCTMF-Net) for electrocardiogram heart sound classification, which combines CNNs and a transformer encoder to extract hierarchical features and achieves state-of-the-art performance on publicly available datasets.
+  We propose the Mutual-Guided Cross-Modality Transformer (MGCT), a weakly-supervised, attention-based multimodal learning framework that can combine histology features and genomic features to model the genotype-phenotype interactions within the tumor microenvironment. Extensive experimental results on five benchmark datasets consistently emphasize that MGCT outperforms the state-of-the-art (SOTA) methods.
 
-cover:          assets/images/covers/pctmf.png
+cover:          assets/images/covers/mgct.png
 authors:
-  - Rongsheng Wang
-  - Yaofei Duan
-  - Yukun Li
-  - Dashun Zheng
-  - Xiaohong Liu
-  - ChanTong Lam
-  - Tao Tan†
+  - Mingxin Liu
+  - Yunzan Liu
+  - Hui Cui
+  - Chunquan Li
+  - Jiquan Ma†
 links:
-  Paper: https://link.springer.com/article/10.1007/s00371-023-03031-5
-  Cite: assets/bibtex/wang2023pctm.bib
+  Paper: https://ieeexplore.ieee.org/abstract/document/10385897
+  Cite: assets/bibtex/liu2023mgct.bib
 ---
