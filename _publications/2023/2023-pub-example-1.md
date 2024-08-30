@@ -1,5 +1,5 @@
 ---
-title:          MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features
+title:          MGCT： Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features
 date:           2023-10-14 00:01:00 +0800
 selected:       true
 pub:            "2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
