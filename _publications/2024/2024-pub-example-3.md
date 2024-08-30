@@ -20,4 +20,5 @@ authors:
   - Jiquan Ma†
 links:
   Paper: https://iopscience.iop.org/article/10.1088/2057-1976/ad6161/meta
+  Cite: assets/bibtex/li2024edge.bib
 ---
