@@ -6,7 +6,7 @@ pub:            "2023 IEEE International Conference on Bioinformatics and Biomed
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
 pub_date:       "2023"
 abstract: >-
-  We propose the Mutual-Guided Cross-Modality Transformer (MGCT), a weakly-supervised, attention-based multimodal learning frame�work that can combine histology features and genomic features to model the genotype-phenotype interactions within the tumor microenvironment. Extensive experimental results on five benchmark datasets consistently emphasize that MGCT outperforms the state-of-the-art (SOTA) methods.
+  We propose the Mutual-Guided Cross-Modality Transformer (MGCT), a weakly-supervised, attention-based multimodal learning framework that can combine histology features and genomic features to model the genotype-phenotype interactions within the tumor microenvironment. Extensive experimental results on five benchmark datasets consistently emphasize that MGCT outperforms the state-of-the-art (SOTA) methods.
   
 cover:          assets/images/covers/mgct.png
 authors:
