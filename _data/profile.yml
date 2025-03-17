@@ -21,7 +21,7 @@ resume: assets/cv/MingxinCV.pdf
 
 short_bio: >-
   I am a 1st year Ph.D. student advised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=99gdDhkAAAAJ">Jun Xu</a> at Nanjing University of Information Science and Technology. My research interests are Computational Pathology and Medical Image Analysis. 
-  Prior to starting my Ph.D., I obtained my M.S degree in Computer Science at Heilongjiang University, advised by Prof. Jiquan Ma, and worked with Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ">Dinggang Shen</a>, Prof. <a href="https://scholar.google.com/citations?user=zX41yC8AAAAJ">Jing Ke</a>, Prof. Chunquan Li, and Dr. <a href="https://scholar.google.com/citations?hl=zh-CN&user=IPHzmmQAAAAJ">Hui Cui</a>. 
+  Prior to starting my Ph.D., I obtained my M.S degree in Computer Science at Heilongjiang University, advised by Prof. <a href="https://scholar.google.com/citations?user=JaCe_K8AAAAJ&hl=en">Jun Xu</a>, and worked with Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ">Dinggang Shen</a>, Prof. <a href="https://scholar.google.com/citations?user=zX41yC8AAAAJ">Jing Ke</a>, Prof. Chunquan Li, and Dr. <a href="https://scholar.google.com/citations?hl=zh-CN&user=IPHzmmQAAAAJ">Hui Cui</a>. 
 
 show_portrait: true
 portrait_url: assets/images/photos/mxliu.jpg
@@ -65,8 +65,8 @@ awards:
 
 service:
 - name: Reviewer of the International Joint Conference on Neural Networks (IJCNN 2025) 
-- name: Reviewer of the Computerized Medical Imaging and Graphics (CMIG)
-- name: Reviewer of the Digital Signal Processing (DSP)
+- name: Reviewer of the Computerized Medical Imaging and Graphics (CMIG, since 2024)
+- name: Reviewer of the Digital Signal Processing (DSP, since 2025)
 - name: Reviewer of The Conference Neural Information Processing Systems (NeurIPS) 2022 Cell Segmentation Challenge
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
