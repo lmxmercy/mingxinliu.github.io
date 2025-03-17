@@ -64,7 +64,9 @@ awards:
   date: 2021
 
 service:
+- name: Reviewer of the International Joint Conference on Neural Networks (IJCNN 2025) 
 - name: Reviewer of the Computerized Medical Imaging and Graphics (CMIG)
+- name: Reviewer of the Digital Signal Processing (DSP)
 - name: Reviewer of The Conference Neural Information Processing Systems (NeurIPS) 2022 Cell Segmentation Challenge
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
