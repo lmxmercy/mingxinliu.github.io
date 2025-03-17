@@ -1,7 +1,7 @@
 ---
 title: "SeqFRT: Towards Effective Adaption of Foundation Model via Sequence Feature Reconstruction in Computational Pathology"
 date: 2024-10-15 00:01:00 +0800
-selected: true
+selected: false
 pub: "2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
 pub_last: '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'
 pub_date: "2024"
