@@ -52,6 +52,12 @@ education:
 #   position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
 #   date: Feb. 2024 -	May 2024
 
+service:
+- name: Reviewer of the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025)
+- name: Reviewer of the International Joint Conference on Neural Networks (IJCNN 2025) 
+- name: Reviewer of the Computerized Medical Imaging and Graphics (CMIG, since 2024)
+- name: Reviewer of the Digital Signal Processing (DSP, since 2025)
+- name: Reviewer of The Conference Neural Information Processing Systems (NeurIPS) 2022 Cell Segmentation Challenge
 
 awards:
 - name: Outstanding Master’s Degree Thesis in Heilongjiang University
@@ -62,12 +68,6 @@ awards:
   date: 2022
 - name: First-Class Graduate Scholarship in Heilongjiang University
   date: 2021
-
-service:
-- name: Reviewer of the International Joint Conference on Neural Networks (IJCNN 2025) 
-- name: Reviewer of the Computerized Medical Imaging and Graphics (CMIG, since 2024)
-- name: Reviewer of the Digital Signal Processing (DSP, since 2025)
-- name: Reviewer of The Conference Neural Information Processing Systems (NeurIPS) 2022 Cell Segmentation Challenge
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
