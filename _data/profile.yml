@@ -47,7 +47,7 @@ service:
 - name: Reviewer of the International Joint Conference on Neural Networks (IJCNN 2025) 
 - name: Reviewer of the Computerized Medical Imaging and Graphics (CMIG, since 2024)
 - name: Reviewer of the Digital Signal Processing (DSP, since 2025)
-- name: Reviewer of The Conference Neural Information Processing Systems (NeurIPS) 2022 Cell Segmentation Challenge
+- name: Reviewer of the Conference Neural Information Processing Systems (NeurIPS) 2022 Cell Segmentation Challenge
 
 awards:
 - name: Outstanding Master’s Degree Thesis in Heilongjiang University
