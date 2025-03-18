@@ -24,20 +24,6 @@
                     </div>
                     {% endif %}
 
-
-                    {% if site.data.profile.awards %}
-                    <div class="col-md-6">
-                        <div class="mx-2 my-1">
-                            <h6>Honors & Awards</h6>
-                            <ul class="list small pl-3 mb-1">
-                                {% for item in site.data.profile.awards %}
-                                <li>{{ item.name }} <em class="float-right">{{ item.date }}</em></li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                    </div>
-                    {% endif %}
-
                     {% if site.data.profile.service %}
                     <div class="col-md-6">
                         <div class="mx-2 my-1">
@@ -45,6 +31,19 @@
                             <ul class="list small pl-3 mb-1">
                                 {% for item in site.data.profile.service %}
                                 <li>{{ item.name }}</li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                    {% endif %}
+                    
+                    {% if site.data.profile.awards %}
+                    <div class="col-md-6">
+                        <div class="mx-2 my-1">
+                            <h6>Honors & Awards</h6>
+                            <ul class="list small pl-3 mb-1">
+                                {% for item in site.data.profile.awards %}
+                                <li>{{ item.name }} <em class="float-right">{{ item.date }}</em></li>
                                 {% endfor %}
                             </ul>
                         </div>
