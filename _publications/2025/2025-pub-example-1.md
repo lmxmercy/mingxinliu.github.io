@@ -21,6 +21,3 @@ authors:
   - Jiquan Ma
   - Jun Xu†
 ---
-# links:
-  Paper: https://ieeexplore.ieee.org/xpl/conhome/10635099/proceeding
-  Cite: assets/bibtex/liu2024unleashing.bib
