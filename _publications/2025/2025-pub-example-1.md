@@ -1,5 +1,5 @@
 ---
-title:          MurreNet: Modeling Holistic Interactions Between Histopathology and Genomic Profiles for Survival Prediction
+title:          MurreNet：Modeling Holistic Interactions Between Histopathology and Genomic Profiles for Survival Prediction
 date:           2025-06-18 00:01:00 +0800
 selected:       true
 pub:            "28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)"
