@@ -28,6 +28,6 @@ authors:
   - Jun Xu†
   - Qi Sun†
 links:
-  Paper: [https://ieeexplore.ieee.org/abstract/document/10479483](https://www.sciencedirect.com/science/article/pii/S1386505625002412)
+  Paper: https://www.sciencedirect.com/science/article/pii/S1386505625002412
   Cite: assets/bibtex/cai2025ibdaim.bib
 ---
