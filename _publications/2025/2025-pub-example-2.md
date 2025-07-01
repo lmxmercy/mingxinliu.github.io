@@ -1,7 +1,7 @@
 ---
 title:          IBDAIM：Artificial intelligence for analyzing intestinal biopsies pathological images for assisted integrated diagnostic of inflammatory bowel disease
 date:           2024-06-21 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "International Journal of Medical Informatics"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
