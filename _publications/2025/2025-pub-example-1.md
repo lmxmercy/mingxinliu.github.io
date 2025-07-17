@@ -20,4 +20,7 @@ authors:
   - Jinze Li
   - Jiquan Ma
   - Jun Xu†
+links:
+  Paper: https://arxiv.org/abs/2507.04891
+  Cite: assets/bibtex/cai2025ibdaim.bib
 ---
