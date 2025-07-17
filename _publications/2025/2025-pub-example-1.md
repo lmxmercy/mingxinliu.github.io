@@ -22,5 +22,5 @@ authors:
   - Jun Xu†
 links:
   Paper: https://arxiv.org/abs/2507.04891
-  Cite: assets/bibtex/cai2025ibdaim.bib
+  Cite: assets/bibtex/liu2025murrenet.bib
 ---
