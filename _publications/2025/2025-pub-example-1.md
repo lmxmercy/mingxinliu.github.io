@@ -22,5 +22,6 @@ authors:
   - Jun Xu†
 links:
   Paper: https://arxiv.org/abs/2507.04891
+  Poster: assets/slides/miccai_2025_poster.pdf
   Cite: assets/bibtex/liu2025murrenet.bib
 ---
