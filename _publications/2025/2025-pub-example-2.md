@@ -14,9 +14,9 @@ abstract: >-
   
 cover:          assets/images/covers/IJMEDI.png
 authors: 
-  - Chengfei Cai*
-  - Qianyun Shi*
-  - Mingxin Liu*
+  - Chengfei Cai
+  - Qianyun Shi
+  - Mingxin Liu
   - Jun Li
   - Yangshu Zhou
   - Andi Xu
