@@ -1,7 +1,7 @@
 ---
 title:          SC-AGR：Spatially-Constrained Attention for Context-Aware Graph Representation in Histopathology Whole Slide Image Analysis
 date:           2025-07-17 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "International Conference on Intelligent Computing (ICIC)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
