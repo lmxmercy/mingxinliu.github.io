@@ -1,5 +1,5 @@
 ---
-title:          Data0 and Knowledge-Driven Multimodal Learning in Computational Pathology：A Comprehensive Survey
+title:          Data- and Knowledge-Driven Multimodal Learning in Computational Pathology：A Comprehensive Survey
 date:           2026-01-01 00:01:00 +0800
 selected:       true
 pub:            "EngMedicine"
