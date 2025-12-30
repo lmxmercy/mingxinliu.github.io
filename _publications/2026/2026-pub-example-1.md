@@ -1,6 +1,6 @@
 ---
 title:          Data- and Knowledge-Driven Multimodal Learning in Computational Pathology：A Comprehensive Survey
-date:           2026-01-01 00:01:00 +0800
+date:           2026-01-10 00:01:00 +0800
 selected:       true
 pub:            "EngMedicine"
 # pub_pre:        "Submitted to "
