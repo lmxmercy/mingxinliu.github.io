@@ -20,4 +20,7 @@ authors:
   - Jinze Li
   - Wenlong Ming
   - Jun Xu†
+links:
+  Paper: https://www.sciencedirect.com/science/article/pii/S2950489926000138
+  Cite: assets/bibtex/liu2026data.bib
 ---
