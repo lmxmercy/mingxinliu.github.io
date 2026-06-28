@@ -1,7 +1,7 @@
 ---
 title:          Noise-Aware Importance-Uncertainty Disentangled Multimodal Learning for Robust Cancer Survival Prediction
 date:           2026-06-18 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
