@@ -52,15 +52,15 @@ service:
 - name: Reviewer of Computerized Medical Imaging and Graphics (CMIG, since 2024)
 # - name: Reviewer of Neural Information Processing Systems (NeurIPS) 2022 Cell Segmentation Challenge
 
-awards:
-- name: Outstanding Master’s Degree Thesis in Heilongjiang University
-  date: 2024
-- name: Second-Class Graduate Scholarship in Heilongjiang University
-  date: 2023
-- name: First-Class Graduate Scholarship in Heilongjiang University
-  date: 2022
-- name: First-Class Graduate Scholarship in Heilongjiang University
-  date: 2021
+# awards:
+# - name: Outstanding Master’s Degree Thesis in Heilongjiang University
+#   date: 2024
+# - name: Second-Class Graduate Scholarship in Heilongjiang University
+#   date: 2023
+# - name: First-Class Graduate Scholarship in Heilongjiang University
+#   date: 2022
+# - name: First-Class Graduate Scholarship in Heilongjiang University
+#   date: 2021
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
