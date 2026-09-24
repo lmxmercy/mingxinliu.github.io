@@ -5,7 +5,8 @@ selected:       true
 pub:            "29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
+# pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'
 pub_date:       "2026"
 
 abstract: >-
