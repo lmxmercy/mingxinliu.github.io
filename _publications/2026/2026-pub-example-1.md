@@ -22,5 +22,6 @@ authors:
   - Jun Xu†
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S2950489926000138
+  Poster: assets/slides/engmedicine-poster.pdf
   Cite: assets/bibtex/liu2026data.bib
 ---
