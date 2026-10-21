@@ -28,5 +28,9 @@ authors:
   - Depin Chen
   - Jun Xu†
 links:
+  Paper: https://link.springer.com/chapter/10.1007/978-3-032-38224-5_49
   Code: https://github.com/lmxmercy/PhiOmni
+  Poster: assets/slides/MICCAI2026-Phi-Omni-Poster.pdf
+  Slides: assets/slides/MICCAI2026-Phi-Omni-Slides.pdf
+  Cite: assets/bibtex/liu2026synergistic.bib
 ---
